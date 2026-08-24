@@ -9,4 +9,5 @@ Right now I'm working on new projects to keep growing and improving. Feel free t
 <div align="left"> 
   
   <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="45" height="45"/></a> 
-  <a href="mailto:your-email@example.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="45" height="45"/></a> <a href="https://your-portfolio-link.com"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="45" height="45"/></a> </div>
+  <a href="mailto:your-email@example.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="45" height="45"/></a> 
+  </div>
