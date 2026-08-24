@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @TiagoManata
-- 👀 I’m interested in develop my programming skils
-- 📫 How to reach me: email: tiagomlmanata@gmail.com
+👋 Hi, I'm Tiago Manata!
+I'm a Software Engineer, fresh out of university, currently looking for my first professional opportunity in the field.
 
-- ⚡ Fun fact: Im a Software Engineer and a Nurse.
+This space brings together the personal and academic projects I built throughout my degree, where I explore different technologies and keep sharpening my skills as a developer. Right now I'm working on new projects to keep growing and improving my skills as a developer.
+
+Feel free to take a look around! 🚀
+
+📡 Let's connect
+
+  💼 LinkedIn: https://www.linkedin.com/in/tiago-manata-402635342/
+  📧 Email:tiagomlmanata@gmail.com
 
 <!---
 TiagoManata/TiagoManata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
